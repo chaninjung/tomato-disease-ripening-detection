@@ -1,2 +1,2 @@
-# tomato-ripening-GAN
-Using a Generative Adversarial Network (GAN) to augment tomato images for classification
+## 🍅Tomato-Leaf-Disease-Detection&Ripening-3-Stages using YOLOv5🍅
+A real-time classification model for tomato diseases, ripening 3 stages using YOLOv5
