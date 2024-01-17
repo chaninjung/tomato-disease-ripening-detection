@@ -10,12 +10,11 @@
 </p>
 
 <br>
-<br>
 
 ### Training data
 The following is the Ripening database that implemented ARGUMENT. (TOTAL 9,831)
 https://github.com/chaninjung/tomato-ripening-GAN.git
-
+</p>
 The following is the Tomato Leaf Disease database. (TOTAL 1,995)
 https://universe.roboflow.com/mfakhrulamcapstone/tomato-leaf-diseases
 
