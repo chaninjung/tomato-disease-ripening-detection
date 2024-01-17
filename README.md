@@ -19,6 +19,7 @@ The following is the Tomato Leaf Disease database. (TOTAL 1,995, class : 10)
 https://universe.roboflow.com/mfakhrulamcapstone/tomato-leaf-diseases
 
 <br>
+<br>
 
 ### Result
 1) Ripening detection using YOLOv5
